@@ -1,0 +1,7 @@
+flask
+numpy
+pickle
+sklearn
+util
+json
+jsonify
